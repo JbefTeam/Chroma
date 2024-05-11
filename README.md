@@ -1,2 +1,0 @@
-# Chroma
-Chroma exploit roblox
